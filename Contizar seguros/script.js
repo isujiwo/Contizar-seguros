@@ -207,3 +207,24 @@ function cotizarSeguro(e) {
 ////////////////
 ///////////////
 ///////////
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}veBike 1s ease-in-out infinite alternate;
+}vv  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}veBike 1s ease-in-out infinite alternate;
+}vv  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}veBike 1s ease-in-out infinite alternate;
+}vv  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}veBike 1s ease-in-out infinite alternate;
+}vv  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}veBike 1s ease-in-out infinite alternate;
+}vv
